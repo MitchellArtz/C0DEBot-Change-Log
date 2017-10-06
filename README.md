@@ -6,3 +6,5 @@ Added ++serverinvite to disable just remove the permission of "CREATE_INVITE" fr
 Added ++HelpMyServer used for getting help to set up the bot or incase someone needs any help.
 ## Oct 6 2017
 Added ++BetaTesterSignup Want to be a beta tester? Try out brand new commands? Be in our credits?!?!? Then just simply do ++BetaTesterSign up and expect a dm from the bot maker.
+
+Added ++RPS For Rock Paper Scissors 
