@@ -9,3 +9,4 @@ Added ++BetaTesterSignup Want to be a beta tester? Try out brand new commands? B
 
 Added ++RPS For Rock Paper Scissors 
 Added +HoT for Heads or Tails
+Removed ++Say because some fucker kept crahsing the bot.
