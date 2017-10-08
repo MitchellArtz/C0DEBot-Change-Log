@@ -8,8 +8,12 @@ Added ++HelpMyServer used for getting help to set up the bot or incase someone n
 Added ++BetaTesterSignup Want to be a beta tester? Try out brand new commands? Be in our credits?!?!? Then just simply do ++BetaTesterSign up and expect a dm from the bot maker.
 
 Added ++RPS For Rock Paper Scissors 
+
 Added +HoT for Heads or Tails
+
 Removed ++Say because some fucker kept crahsing the bot.
 
 ### Oct 8 2017
 Fixed ++ban YAY! Now you do not need a role named a specific thing! All you need is ban perms.
+
+Fixed ++kick YAY! Now you do not need a role named a specific thing! All you need is kick perms.
