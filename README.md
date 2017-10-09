@@ -17,3 +17,5 @@ Removed ++Say because some fucker kept crahsing the bot.
 Fixed ++ban YAY! Now you do not need a role named a specific thing! All you need is ban perms.
 
 Fixed ++kick YAY! Now you do not need a role named a specific thing! All you need is kick perms.
+
+Removed ++mute and ++unmute as it was useless.
