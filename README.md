@@ -19,3 +19,6 @@ Fixed ++ban YAY! Now you do not need a role named a specific thing! All you need
 Fixed ++kick YAY! Now you do not need a role named a specific thing! All you need is kick perms.
 
 Removed ++mute and ++unmute as it was useless.
+
+### Oct 11 2017
+Added ++ShouldI for asking the bot if you should do something
