@@ -11,7 +11,7 @@ Added ++RPS For Rock Paper Scissors
 
 Added +HoT for Heads or Tails
 
-Removed ++Say because some fucker kept crahsing the bot.
+Removed ++Say because some fucker kept crashing the bot.
 
 ### Oct 8 2017
 Fixed ++ban YAY! Now you do not need a role named a specific thing! All you need is ban perms.
